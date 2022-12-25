@@ -1,4 +1,4 @@
-# Source Code for Tutorial - PHP MySQLi - Object Oriented Way
+# Source Code - PHP MySQLi - Object Oriented Way
 
 In this tutorial you will learn basics of:
 
