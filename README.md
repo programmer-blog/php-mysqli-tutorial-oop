@@ -10,4 +10,5 @@ In this tutorial you will learn basics of:
   6. Select data with Where, order by and limit clause
   
   
-  Please view the detailed video tutorial at: 
+  Please view the detailed video tutorial at: https://www.youtube.com/watch?v=V4gJbMky92Q
+  
